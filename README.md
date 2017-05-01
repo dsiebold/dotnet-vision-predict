@@ -28,3 +28,6 @@ This project was created using Visual Studio 2017 Community Edition. Thanks to T
 - [Einstein Vision Documentation](https://metamind.readme.io/v1/docs)
 
 - [Trailhead Quick Start: Einstein Vision](https://trailhead.salesforce.com/en/projects/predictive_vision_apex)
+
+## Screenshot of Prediction
+![](https://github.com/dsiebold/dotnet-vision-predict/blob/master/prediction_screenshot.png)
